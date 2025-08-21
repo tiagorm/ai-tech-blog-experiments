@@ -1,3 +1,5 @@
 blogtech1/venv_blogtech1/
 **/__pycache__/
 *.pyc
+blogtech2/wordpress-docker/db-data/
+blogtech2/wordpress-docker/wp-data/

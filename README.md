@@ -4,5 +4,8 @@ Experiments using AI Assistant tools for building a tech blog
 
 ## Blog Tech 1
 
-Using Cursor IDE with OpenAI GPT 4.1.
+Using Cursor IDE with OpenAI GPT 4.1. Using Django.
 
+## Blog Tech 2
+
+Using Cursor IDE with OpenAI GPT 4.1. Using Wordpress.
