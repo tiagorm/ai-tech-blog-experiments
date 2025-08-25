@@ -9,3 +9,7 @@ Using Cursor IDE with OpenAI GPT 4.1. Using Django.
 ## Blog Tech 2
 
 Using Cursor IDE with OpenAI GPT 4.1. Using Wordpress.
+
+## Blog Tech 3
+
+Using Cursor IDE with OpenAI GPT 4.1. Using Node JS.
