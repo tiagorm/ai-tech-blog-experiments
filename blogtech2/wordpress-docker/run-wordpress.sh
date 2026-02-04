@@ -1,12 +1,12 @@
 
 echo "Running Docker on http://localhost:8000"
-docker-compose up -d
+docker compose up -d
 
 # echo "Stopping Docker"
-# docker-compose down
+# docker compose down
 
 # echo "Removing Docker"
-# docker-compose down -v
+# docker compose down -v
 
 # echo "Removing Docker Images"
 # docker rmi $(docker images -q)
